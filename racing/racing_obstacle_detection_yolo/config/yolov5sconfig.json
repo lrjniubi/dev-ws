@@ -1,0 +1,5 @@
+{
+    "model_file": "/home/sunrise/RacingDev/dev_ws/install/racing_obstacle_detection_yolo/lib/racing_obstacle_detection_yolo/config/yolov5.bin",
+    "class_num": 6,
+    "cls_names_list": "/home/sunrise/RacingDev/dev_ws/install/racing_obstacle_detection_yolo/lib/racing_obstacle_detection_yolo/config/obstacles.list"
+}
